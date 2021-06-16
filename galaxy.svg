@@ -13,7 +13,10 @@
    viewBox="0 0 3400 1990"
    version="1.1"
    sodipodi:docname="galaxy.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/hxr/arbeit/galaxy/remo-floormaps/galaxy.png"
+   inkscape:export-xdpi="51.52"
+   inkscape:export-ydpi="51.52">
   <title
      id="title3143">Remo, In Space™</title>
   <metadata
@@ -65,13 +68,13 @@
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:zoom="0.28866595"
-     inkscape:cx="1190.4631"
-     inkscape:cy="791.38384"
+     inkscape:zoom="0.81647059"
+     inkscape:cx="1615.594"
+     inkscape:cy="1002.9601"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1"
+     inkscape:current-layer="map-background"
      showguides="false"
      inkscape:snap-global="false">
     <inkscape:grid
@@ -6217,37 +6220,9 @@
       <ellipse
          ry="295.71429"
          rx="325.71429"
-         cy="2462.8826"
-         cx="1404.4219"
-         id="path7636-46-6-8"
-         style="display:inline;opacity:0.628;fill:#7773dc;fill-opacity:0.03125;stroke:none;stroke-width:7.55905533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         ry="295.71429"
-         rx="325.71429"
-         cy="2671.29"
-         cx="1426.6293"
-         id="path7636-46-6-0"
-         style="display:inline;opacity:0.628;fill:#7773dc;fill-opacity:0.03125;stroke:none;stroke-width:7.55905533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         ry="295.71429"
-         rx="325.71429"
-         cy="2784.0349"
-         cx="1011.5225"
-         id="path7636-46-6-2"
-         style="display:inline;opacity:0.628;fill:#7773dc;fill-opacity:0.03125;stroke:none;stroke-width:7.55905533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         ry="295.71429"
-         rx="325.71429"
          cy="2748.1616"
          cx="577.625"
          id="path7636-46-6-1"
-         style="display:inline;opacity:0.628;fill:#7773dc;fill-opacity:0.03125;stroke:none;stroke-width:7.55905533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         ry="295.71429"
-         rx="325.71429"
-         cy="2739.6204"
-         cx="512.71118"
-         id="path7636-46-6-05"
          style="display:inline;opacity:0.628;fill:#7773dc;fill-opacity:0.03125;stroke:none;stroke-width:7.55905533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          ry="295.71429"
@@ -6269,48 +6244,6 @@
          cy="2362.0952"
          cx="184.7256"
          id="path7636-46-6-5"
-         style="display:inline;opacity:0.628;fill:#7773dc;fill-opacity:0.03125;stroke:none;stroke-width:7.55905533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         ry="295.71429"
-         rx="325.71429"
-         cy="2085.3574"
-         cx="66.855797"
-         id="path7636-46-6-06"
-         style="display:inline;opacity:0.628;fill:#7773dc;fill-opacity:0.03125;stroke:none;stroke-width:7.55905533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         ry="295.71429"
-         rx="325.71429"
-         cy="2069.9832"
-         cx="664.74615"
-         id="path7636-46-6-4"
-         style="display:inline;opacity:0.628;fill:#7773dc;fill-opacity:0.03125;stroke:none;stroke-width:7.55905533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         ry="295.71429"
-         rx="325.71429"
-         cy="2069.9832"
-         cx="859.48755"
-         id="path7636-46-6-6"
-         style="display:inline;opacity:0.628;fill:#7773dc;fill-opacity:0.03125;stroke:none;stroke-width:7.55905533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         ry="295.71429"
-         rx="325.71429"
-         cy="1993.1115"
-         cx="1018.3556"
-         id="path7636-46-6-25"
-         style="display:inline;opacity:0.628;fill:#7773dc;fill-opacity:0.03125;stroke:none;stroke-width:7.55905533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         ry="295.71429"
-         rx="325.71429"
-         cy="2148.563"
-         cx="1175.5153"
-         id="path7636-46-6-86"
-         style="display:inline;opacity:0.628;fill:#7773dc;fill-opacity:0.03125;stroke:none;stroke-width:7.55905533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         ry="295.71429"
-         rx="325.71429"
-         cy="2165.6455"
-         cx="1206.2639"
-         id="path7636-46-6-28"
          style="display:inline;opacity:0.628;fill:#7773dc;fill-opacity:0.03125;stroke:none;stroke-width:7.55905533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          ry="295.71429"
