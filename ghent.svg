@@ -36,9 +36,9 @@
    inkscape:window-height="1076"
    id="namedview14129"
    showgrid="false"
-   inkscape:zoom="0.125"
-   inkscape:cx="1083.816"
-   inkscape:cy="1105.4075"
+   inkscape:zoom="0.35355339"
+   inkscape:cx="1658.0655"
+   inkscape:cy="1025.4424"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
@@ -25110,9 +25110,11 @@ Time: 06/09/2021 16:04:17
 
 
 
+
 			<text
    transform="matrix(0.8,0,0,1,755.39,508.78)"
    id="text12485">Map data © OpenStreetMap contributors</text>
+
 
 
 
@@ -29256,6 +29258,7 @@ Time: 06/09/2021 16:04:17
 
 
 
+
 </g>
 		</g>
 	</g><g
@@ -29276,16 +29279,7 @@ Time: 06/09/2021 16:04:17
        width="3392.3384"
        height="1982.3383"
        x="3.8308752"
-       y="3.8306754" /></g></clipPath><clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath17149"><rect
-     inkscape:label="clipping-rect"
-     style="opacity:1;fill:none;fill-opacity:0.96078431;stroke:#00001f;stroke-width:1.95363522;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.33035715"
-     id="rect17151"
-     width="864.99933"
-     height="505.46881"
-     x="83.852501"
-     y="1480.3885" /></clipPath>
+       y="3.8306754" /></g></clipPath>
 <linearGradient
    inkscape:collect="always"
    xlink:href="#linearGradient13016"
@@ -29342,9 +29336,18 @@ Time: 06/09/2021 16:04:17
    x1="-198.58087"
    y1="50.127285"
    x2="-198.58087"
-   y2="15.28688" /></defs>
+   y2="15.28688" /><clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath10221"><rect
+     y="1502.8395"
+     x="125.6795"
+     height="438.76834"
+     width="750.85602"
+     id="rect10223"
+     style="opacity:1;fill:none;fill-opacity:0.96078431;stroke:#00001f;stroke-width:1.69583809;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.33035715"
+     inkscape:label="clipping-rect" /></clipPath></defs>
 	<rect
-   style="display:inline;overflow:hidden;opacity:1;fill:#ffffff;fill-opacity:0.99170125;stroke:none;stroke-width:14.24503899;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;text-rendering:optimizeLegibility"
+   style="display:none;overflow:hidden;opacity:1;fill:#ffffff;fill-opacity:0.99170125;stroke:none;stroke-width:14.24503899;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;text-rendering:optimizeLegibility"
    id="rect18645"
    width="3916.7063"
    height="2796.5361"
@@ -29352,9 +29355,9 @@ Time: 06/09/2021 16:04:17
    y="-298.95898"
    sodipodi:insensitive="true" /><g
    style="display:inline"
-   clip-path="url(#clipPath17149)"
+   clip-path="url(#clipPath10221)"
    inkscape:label="map-background"
-   transform="matrix(3.9217816,0,0,3.9217816,-325.02032,-5801.9299)"
+   transform="matrix(4.5179611,0,0,4.5179611,-563.98421,-6785.9396)"
    id="g9601"><g
      transform="translate(0,1477.2)"
      inkscape:label="Polygons"
@@ -33617,7 +33620,7 @@ Time: 06/09/2021 16:04:17
      height="292.64761"
      width="493.6532"
      id="rect16669"
-     style="opacity:1;fill:none;fill-opacity:0.96078431;stroke:#00001f;stroke-width:4.30304193;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></g>
+     style="opacity:1;fill:none;fill-opacity:0.96078431;stroke:#00001f;stroke-width:2.5726169;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></g>
 <g
    transform="translate(-217.13294,58.151367)"
    id="conference-area"><g
@@ -34220,6 +34223,7 @@ Time: 06/09/2021 16:04:17
 
 
 
+
 <text
    data-name="name"
    class="cls-123"
@@ -34228,6 +34232,7 @@ Time: 06/09/2021 16:04:17
    y="1341.4281"
    inkscape:label="name-1"
    id="text34625">Boekentoren</text>
+
 
 
 
@@ -34963,6 +34968,7 @@ Time: 06/09/2021 16:04:17
    x="1309.3296"
    y="1345.4281"
    inkscape:label="name-2">Klein Begijnhof</text>
+
 
 
 
@@ -35807,6 +35813,7 @@ Time: 06/09/2021 16:04:17
 
 
 
+
 <g
    id="admin-seat-3"
    data-name="admin-seat"
@@ -36614,6 +36621,7 @@ Time: 06/09/2021 16:04:17
 
 
 
+
 <g
    id="admin-seat-4"
    data-name="admin-seat"
@@ -37138,6 +37146,7 @@ Time: 06/09/2021 16:04:17
    x="1309.3296"
    y="1345.4281"
    inkscape:label="name-5">Klokke Roeland</text>
+
 
 
 
@@ -37706,6 +37715,7 @@ Time: 06/09/2021 16:04:17
 
 
 
+
 <text
    data-name="name"
    class="cls-123"
@@ -37714,6 +37724,7 @@ Time: 06/09/2021 16:04:17
    y="1294.666"
    inkscape:label="name-6"
    id="text178700">Gravensteen</text>
+
 
 
 
@@ -38204,6 +38215,7 @@ Time: 06/09/2021 16:04:17
 
 
 
+
 <text
    data-name="name"
    class="cls-123"
@@ -38212,6 +38224,7 @@ Time: 06/09/2021 16:04:17
    y="1335.4281"
    inkscape:label="name-7"
    id="text177176">Dulle Griet</text>
+
 
 
 
@@ -39010,6 +39023,7 @@ Time: 06/09/2021 16:04:17
 
 
 
+
 <g
    id="admin-seat-8"
    data-name="admin-seat"
@@ -39669,6 +39683,7 @@ Time: 06/09/2021 16:04:17
    inkscape:label="name-10">Sint-Niklaas</text>
 
 
+
 <g
    id="admin-seat-10"
    data-name="admin-seat"
@@ -40115,6 +40130,7 @@ Time: 06/09/2021 16:04:17
    x="1334.8296"
    y="1342.4281"
    inkscape:label="name-12">Belfort van Gent</text>
+
 
 
 <g
@@ -40780,6 +40796,7 @@ Time: 06/09/2021 16:04:17
    x="1321.3296"
    y="1345.4281"
    inkscape:label="name-9">Sint-Baafs</text>
+
 
 <g
    id="admin-seat-9"
